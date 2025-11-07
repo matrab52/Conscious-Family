@@ -8,6 +8,10 @@
 *secret*
 config/credentials.json
 
+# Bot credentials (CRITICAL)
+emergent-bot/config.py
+config.py
+
 # Python
 __pycache__/
 *.py[cod]
